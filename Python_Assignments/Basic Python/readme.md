@@ -57,5 +57,4 @@ Write a Python program to calculate the **final bill** for a patient who:
 
 ---
 
-## 📂 Folder Structure
 
