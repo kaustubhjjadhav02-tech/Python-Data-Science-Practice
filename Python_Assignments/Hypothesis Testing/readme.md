@@ -83,4 +83,4 @@ Based on the hypothesis test results, conclude whether the weekly operating cost
 - Complete Python implementation of hypothesis testing  
 - Documentation of results and interpretation  
 - Final conclusion summarizing the statistical findings
-- 
+  
